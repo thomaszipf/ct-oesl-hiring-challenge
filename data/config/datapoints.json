@@ -1,0 +1,5131 @@
+{
+    "uuid": {
+        "0": "00f9c223-6fd4-45ec-8ee2-62b9458c98fc",
+        "1": "9d7f979a-c50e-494c-9ee0-082eabe3143f",
+        "2": "8a1c7509-3c14-4f8f-b81c-0d44190ea305",
+        "3": "6a295488-d312-4c35-9c35-7347488f9846",
+        "4": "5cbb4233-dcbb-4e96-9111-0f0c36633303",
+        "5": "52ba9c7e-0660-43a3-a33d-6de86ddf7f85",
+        "6": "7826d0d5-73c5-47a3-ae05-9bef58b32693",
+        "7": "e301efbc-f80f-4c38-82fa-95db259c785d",
+        "8": "19501b2c-cb5f-43e8-85d6-4e08117e67d8",
+        "9": "2d3a1ccd-57da-4bb8-a511-a035c893a39d",
+        "10": "b1543b52-3759-486f-8f1a-9a48ce981261",
+        "11": "1fb04fd7-9656-4e47-ab6e-0b7aae7a508c",
+        "12": "f3dc7888-f06a-44cb-9d51-ba1181caf74a",
+        "13": "7ba95ea2-f127-43d1-81d8-a15555124938",
+        "14": "9dd50938-a78d-4e16-b8f6-fdb962c69f32",
+        "15": "a9a6ae1c-ff00-488f-b337-da211a8f1573",
+        "16": "09dbb509-a78f-4288-9f62-8241ab126bc8",
+        "17": "8800c27c-2c84-4496-a5bf-8e4f4e7f98be",
+        "18": "cdbf2c9b-1c56-4786-a118-9a0f165008ff",
+        "19": "0e03a074-77ed-4c3e-be4a-4f95b9d50bef",
+        "20": "f359873a-17b4-41ee-9807-6749edb0f0c9",
+        "21": "26a43880-23e5-43ba-a173-fb242b23a3e1",
+        "22": "21b95b17-fb41-4c28-8a54-d198b0b3dadf",
+        "23": "a7e3c691-707c-44c1-a0a4-d0727c63c927",
+        "24": "d0ff6633-913b-4a7c-be9a-f1cba00f7bf0",
+        "25": "9bf78e90-575f-4230-baad-15e89204690b",
+        "26": "75dd9b39-1244-40a9-aa2d-b44daeda97bd",
+        "27": "a6e21d77-9ec4-42dd-b0c0-175b37392cbb",
+        "28": "3e8f21b1-aa32-4995-af0c-e5180b6dac25",
+        "29": "cb4b0225-ba80-48c5-aaee-a4bef775eee8",
+        "30": "8a92806d-651b-4f51-b18d-18814be7dba0",
+        "31": "dd1c73e5-754c-48f9-b395-6603e33493dc",
+        "32": "c0248474-09b7-4832-a23a-48a6bb2806e9",
+        "33": "b21d80f4-f08b-427e-b796-e82b42eda697",
+        "34": "904a5a13-8ae6-404f-ad0f-7e9a2ffcba2c",
+        "35": "c32eed96-f56a-431c-98ce-415492b54b4b",
+        "36": "256b9b0f-eee2-450d-96ef-d71ec51015d3",
+        "37": "5ef1bd66-5c49-420f-8ece-5a2f610fc0ca",
+        "38": "52ef5ac7-1257-4064-9b58-835cab79af47",
+        "39": "36d381c2-21c3-4823-95ab-049397d66cbc",
+        "40": "abe22507-3f8b-45cd-8ce9-5d6292952500",
+        "41": "7fff6a87-38e8-41a9-bee7-acaca7ec4faf",
+        "42": "586e0f10-c346-4cbb-a388-68b00e699716",
+        "43": "21d8b21a-e30a-457f-b4b5-866884de7336",
+        "44": "47189cdb-fe0b-4449-9adc-4594f5c33d0f",
+        "45": "86fa6cf2-3a45-4883-8e6c-0b3ed4085819",
+        "46": "5abf4199-0679-465c-b980-5873bd5aa3c2",
+        "47": "b6a0c7d1-44cc-4e2b-9772-36946ba923ab",
+        "48": "a407a756-38c7-4ecf-aa86-e2d4943f22a6",
+        "49": "91d35e06-717b-45a8-a36d-5fc38d77c442",
+        "50": "1a33e92b-7894-402e-ba41-b52eb4e37971",
+        "51": "04962134-c4d8-4470-8875-0355e660d4ec",
+        "52": "d0d115ae-5c3b-4fca-b69b-d7ed090202b2",
+        "53": "730ec4d0-8417-475c-a724-2173e9dc3179",
+        "54": "602d8522-eac0-4cea-a840-fa06f25c5944",
+        "55": "40ed6ab2-a333-43ad-b814-1969e819eec3",
+        "56": "c73e1918-c525-4182-81c4-51e9c39039c0",
+        "57": "a30db378-27bc-4614-a4b6-e543ccb8e23a",
+        "58": "af902636-52e9-472f-94d4-1f2476f55f65",
+        "59": "bd30792d-bbee-4d95-a48c-516996d05379",
+        "60": "b46be2f5-8861-4a65-b0fb-d7030f1849db",
+        "61": "ee62cc50-ff4a-43ca-a4a6-47bec85da0b2",
+        "62": "8c5e1d22-361d-4db9-9323-5aa65f1ce98b",
+        "63": "2ff7008a-dcf5-4d3f-99ae-340ff6ece5da",
+        "64": "995f4971-2e12-4820-8b60-f91a49f2e7dc",
+        "65": "84a592d4-19fc-4a4f-94d0-e057e74cb33e",
+        "66": "a79b4677-d16d-491f-9248-1e884c9a6ef7",
+        "67": "dcf85d1f-a8ee-4272-83d9-eea86bfdb30d",
+        "68": "e348c918-a6bf-4469-aa1a-8356a3a11938",
+        "69": "7bddc10c-e506-43c1-9239-0d04c5b0f0bc",
+        "70": "baaa86aa-aa65-43b0-aebc-ab49444ca526",
+        "71": "281cbf78-1e6a-46c4-b7e9-6d8dcffc4ae9",
+        "72": "219da806-1426-49c9-8317-273f1547f10f",
+        "73": "40d271b8-3fc3-43aa-934a-f9f24f4a1134",
+        "74": "05d201a3-6468-4195-bbb2-506b8ef63f22",
+        "75": "2bab3576-fccb-4fff-9cd0-883367c67abc",
+        "76": "54b45702-8fb1-4c3c-88af-fb1212a7b38e",
+        "77": "88e059d4-7226-4ba4-9c0c-528668708a75",
+        "78": "32880d28-f90f-49ed-b0f2-41d7b3b3991c",
+        "79": "4fd258ca-43c3-460d-978c-eb803b86fb2c",
+        "80": "d1960ded-2c65-4ddf-b2a4-04413bac8f60",
+        "81": "b36b9c43-bd36-4273-9146-31b8ed64af49",
+        "82": "0df80a89-f2f3-4e25-8319-6471b42a5777",
+        "83": "6a1dfbc0-e338-4adc-85fb-8c544cdf8f7b",
+        "84": "96e27379-70ae-4333-a286-3ee971d090de",
+        "85": "c85a0653-489f-4360-b6cd-91a463d13ddd",
+        "86": "879d6690-ebec-4f64-88ed-a723ac2529d8",
+        "87": "aacdf2bb-5d64-40b0-8221-714dbfb4f28e",
+        "88": "32e820e4-57c5-45be-86b2-8cd28e2a982a",
+        "89": "5cde150d-c044-4e55-8c48-73321e0c0f27",
+        "90": "67da707a-735b-497d-9870-40349919814c",
+        "91": "4c219174-cd08-456d-adff-b49a2cc2abfa",
+        "92": "86cd55b2-0651-4c96-8d2a-0d0678884ee7",
+        "93": "b8b04f8a-f850-44ee-b0d9-57a5f027a865",
+        "94": "36769a14-76e9-44aa-9bde-31695ea02df9",
+        "95": "819018bf-cc8d-4e45-9325-9970c4658bc3",
+        "96": "b927d6a1-e588-4aa4-8568-d62ed85ffeaf",
+        "97": "76544e08-b328-49d6-b62f-a078f64f0e68",
+        "98": "ddc4495e-3f91-4d7f-ae22-48ad9fcbf800",
+        "99": "d5c58519-6375-4dc1-a619-00f6a952da30",
+        "100": "c2cd021c-55cc-4ef8-a7ac-507f7cc9ae24",
+        "101": "551c7fdc-1cbb-4123-8777-a3df1b6d9697",
+        "102": "666e2024-4549-4eb0-8c98-90d0a3a0718f",
+        "103": "7270a2a1-a553-47c9-bb3a-7eb2c9564919",
+        "104": "c23e4247-cfb8-450d-92fe-e6e7ae15ef0c",
+        "105": "38cf984c-d7a7-436f-b63e-a2177a0b8b6d",
+        "106": "e5bff818-fee7-4a47-8381-ce98cb6120fa",
+        "107": "b406d745-3b38-43c3-9e61-d3b69c58f777",
+        "108": "b1a0c1fe-ad5f-49cb-8eb6-56e3bf3ec8f1",
+        "109": "d17ede2c-d69b-451b-a73f-74e42965a9b9",
+        "110": "fade15bd-f926-4a71-8935-bf9613416bed",
+        "111": "05c224df-53da-4775-9065-f3b873623fb2",
+        "112": "fcbd827a-a960-4546-a54f-7e169f0c6dc3",
+        "113": "0a1f83c2-ea23-49ca-b126-0e59d9a1258a",
+        "114": "adee3ecb-3c1c-49fc-aad0-0be3c5e357c2",
+        "115": "d2d087d8-8fbc-4c40-884a-4d3ce1fcdbb8",
+        "116": "c445c98f-079c-4a4b-8a62-e20bad0eb834",
+        "117": "b20c5ae6-618c-4944-9507-dfa43c1c4dce",
+        "118": "b8195a50-2f18-4a05-90dd-eb54486d3cac",
+        "119": "1eee0612-288c-4bb7-ac06-d3d4d97156d6",
+        "120": "ad213b8e-2a38-476d-b295-4957e3f6db54",
+        "121": "49539838-bd3b-4be0-8ef2-89dea1ba63c9",
+        "122": "79802918-39c0-4d63-b4ea-11d55e03d64c",
+        "123": "c6cdc51a-b78b-4a1b-a8da-82ad77180191",
+        "124": "5be47198-361f-407c-84fe-40ef6f18beb2",
+        "125": "9c6f00b9-3a70-4545-95bf-016762dd6022",
+        "126": "a17f77b3-b6c0-4035-b54d-2ac3cda4ef75",
+        "127": "4f11e4be-5b02-458d-a17d-a65d67e852d7",
+        "128": "dce85dbd-b346-4567-a0a8-163fcad2b8c9",
+        "129": "97ff567d-bee5-42c3-973e-602aa81fbdb5",
+        "130": "09920735-1304-4473-8281-5396bda16f02",
+        "131": "5c48bb4d-7ea2-4788-a107-15065ebab336",
+        "132": "af67cac8-e309-4137-a652-4a01b2c5b1e0",
+        "133": "c32f3a6a-d889-44c7-840f-e75a8fc7d400",
+        "134": "930f2a23-8022-44d6-a429-0acdbee20348",
+        "135": "f6c2e0c6-8c7d-4640-ac80-c545312e2c1e",
+        "136": "1b1cd130-86f5-4d7d-92ca-cb69c4137240",
+        "137": "c0124155-6a85-4812-9a83-0ea402b974c8",
+        "138": "baf6e87c-85cc-49cd-af4b-b731d2ffdaac",
+        "139": "e16b9a6d-98ef-4be4-aba8-c724a1fd77b1",
+        "140": "831f1678-3f7e-4801-a3b7-b730b1a4b8d7",
+        "141": "52a9310a-f57d-4601-9fd0-ffac30b8febd",
+        "142": "05a3a6da-9260-4e0d-876f-a41f71e6708d",
+        "143": "0406e3ce-3c34-4cae-b7f3-0909d397acdb",
+        "144": "faf46938-18ec-4ffc-880d-0c372e9ffd39",
+        "145": "7f80b3e5-fe1c-4afa-97e2-35cb5a933443",
+        "146": "48efae9a-eb3f-4bdc-8382-672a99ec884b",
+        "147": "7e1b3ade-7300-4b9f-85c5-befc557b5858",
+        "148": "bf8be4c2-262b-4be0-ba4d-3b38a838b9ce",
+        "149": "87e9492e-39d5-4087-8f7c-50990bef9786",
+        "150": "50685ec8-00e2-4e61-9cde-e39d5c559672",
+        "151": "292d13a3-2ffb-4444-b676-29996a121cd5",
+        "152": "b2d89b7d-ed2f-4c43-807e-d02367091704",
+        "153": "c77704e0-45ef-479a-a103-58da79b0b43e",
+        "154": "77fb7b30-5526-45c7-8941-34a3f59faa2e",
+        "155": "a6c3d745-5626-4128-9f28-90b2334b4c11",
+        "156": "642e5b22-246a-4792-a211-fd6d04a371dd",
+        "157": "d9cfd8de-944c-4589-b685-00ae1a14a85a",
+        "158": "020c0050-41f5-418d-a20b-4e7cec06543b",
+        "159": "d039bf55-b2a1-4cc5-ad38-c74779648de9",
+        "160": "4728caa6-53e0-49d9-9265-307d23acd2ba",
+        "161": "53056d22-3d2e-402f-821d-bc951e7ce291",
+        "162": "a7507cc9-0c02-4832-b3ed-320673c05539",
+        "163": "0076f18f-24f7-41d4-8aa9-bdff0da9b40e",
+        "164": "e700e45b-0f1f-4090-ad22-199622d9d49b",
+        "165": "70404e50-6149-4a23-99a8-b56f1e7e2ce1",
+        "166": "e1cbd9bc-a1eb-4aa8-a4df-18f05135959d",
+        "167": "ea35f08c-e204-4135-9aae-b4bbaf18dfd5",
+        "168": "ccace829-5bd8-4c92-963a-8cde390324d6",
+        "169": "5529ef81-cb8d-4b82-b71b-1e64aeaa65b9",
+        "170": "82d8bb01-dad3-4940-a8ab-48543f417f38",
+        "171": "f78e225d-d5f3-4dc6-8447-b7219b2a7aba",
+        "172": "3e6067d2-bb78-4aa1-90f0-f3fd35cf39c2",
+        "173": "9fc7afc3-e14f-4aac-8081-0426459e870c",
+        "174": "80447e5a-c171-4229-a5a3-44b522ba005c",
+        "175": "172dc0b5-1c22-4dac-9c87-696c942f9454",
+        "176": "90cc9aa9-1bff-4cd5-940c-9efe6882be60",
+        "177": "2daccd24-7c94-4f9b-8c04-0389c55e06a8",
+        "178": "c5813557-6da3-4fa2-bea2-cb9382d96d72",
+        "179": "7cd46ad2-0584-4c3b-bf93-bc454291d86e",
+        "180": "b31a5b25-4266-48da-a39b-a8810563d490",
+        "181": "718f9dd6-7702-49fd-b0df-e478f6553a94",
+        "182": "9f3221fd-3b7f-40dc-9839-e1c45e5f5364",
+        "183": "2a9957d7-c566-46e3-9717-819f27ac5207",
+        "184": "1714a480-d479-4349-9e7b-9302c2a800d0",
+        "185": "2119ce0f-a1ca-4e96-afba-11e829a6ee1f",
+        "186": "caded4b0-fd9b-4d8b-84a1-442591d855e8",
+        "187": "95a47ca9-9e56-42e6-bd50-0250bf0bbf56",
+        "188": "ef035f09-41ae-4c91-8908-f747ce6b3b94",
+        "189": "a34b83f8-a302-494e-9006-9925aa1bd4e6",
+        "190": "b20390f4-5f3b-4fe0-8e45-e219f17ac3c3",
+        "191": "19175346-d4c8-40a9-ae3c-e42cfc2f7a4b",
+        "192": "b200da3d-a311-4bcb-8815-4df5acd8524e",
+        "193": "0ff02b57-0ce2-4720-b85e-2ed28c9b054d",
+        "194": "900ef2d3-90ad-43fa-9265-46b75420bd20",
+        "195": "be95520b-4464-4624-9cec-8f08278bbdda",
+        "196": "c24a3d46-a78b-4057-9c0e-604b5598a710",
+        "197": "64b81b10-bcce-4974-8a58-43a47d1213f5",
+        "198": "5de38e57-9cf1-44ea-9c85-b11e9affe000",
+        "199": "666d6cf5-73ea-41f1-bcd1-b621a1664e00",
+        "200": "2739e33e-ab20-4052-81cf-f42c53728600",
+        "201": "a0896e48-c71d-4253-868d-30bc7e254b7f",
+        "202": "56a6cbd0-f219-4517-a044-3342a89ca627",
+        "203": "9df2eaf8-6357-40a6-a93f-d1c0673c6460",
+        "204": "5190c1f4-4163-4d44-b8d8-5e3104c00813",
+        "205": "3413c820-39bf-428e-9ea3-3f22b0f01e51",
+        "206": "0a07ac43-5008-4020-9515-4f909f86454b",
+        "207": "50ddfb49-8f3e-4830-b6df-07dc73886cb3",
+        "208": "5905ed8c-236e-4b67-b1aa-306f8e3a9b23",
+        "209": "da2bd02d-95ac-4155-9eb6-daa1522c218a",
+        "210": "3b723fa6-fd7f-4925-b325-e3758ecc7a11",
+        "211": "54bb17f4-ef3d-4620-a327-dfc6d351a6e2",
+        "212": "6adbde50-1db6-42fa-a06a-d01af44df3c8",
+        "213": "aba6f987-1827-4607-9877-10fc97004bf7",
+        "214": "c3b46d36-a6a2-459b-82ab-aae47abf9115",
+        "215": "3c6a99d5-0c28-4406-9348-6d3562112109",
+        "216": "e9f668f8-65b1-4f36-8be2-232ca6373095",
+        "217": "da0feec8-2702-49a5-921d-e9a097bc01ef",
+        "218": "94eb6108-d9ad-490a-bff5-8b21f654b289",
+        "219": "571a91c9-fa11-403a-bd03-33bbd4208226",
+        "220": "acfbc81b-14b0-41cd-8cf3-71f769e6273a",
+        "221": "a3c76213-277b-496c-a194-33bae2a6d50a",
+        "222": "3adbf4da-3562-437c-904b-bb138eed18b8",
+        "223": "75780621-3bad-4ae5-9d81-aa3a6db33501",
+        "224": "1a9f9565-97f2-4af5-8111-8dedd8274fe3",
+        "225": "239a559d-b06c-4b2b-8c70-185c74349655",
+        "226": "b9adcbb2-561e-4826-af08-8100a9fc3c0b",
+        "227": "a3ca368b-ec05-42e5-9e74-957264e5d21b",
+        "228": "f4fb365c-4b1c-4aa4-84df-6865afde1e63",
+        "229": "01d9439e-5b58-4355-beb5-32733d250f88",
+        "230": "d5e7815e-5edb-4ec4-8f4f-cadc6c187e26",
+        "231": "555f535a-31e3-4b9a-b4a0-120f65869c66",
+        "232": "3f3581d0-7756-4d1f-916e-56351a84048a",
+        "233": "c6e8edb1-e1bb-4957-af8f-ff5caaa0bae8",
+        "234": "3a415e6c-43d2-4794-8b03-828a94f85a1e",
+        "235": "47d99353-6fcf-45b8-839a-c7ba83dcd591",
+        "236": "8b9468bd-7eb9-4fa0-972f-8470b47f7f51",
+        "237": "0a9f05ae-8e5f-407e-ac1f-eb73589a09d5",
+        "238": "5288d2fa-51b2-426f-ac18-9a6543cbe85d",
+        "239": "682d74a0-cb95-431b-aea5-57e7c1c51076",
+        "240": "10ddc161-62ea-4bef-bef4-c49ca875908b",
+        "241": "2a1b3901-b373-42a5-ae87-6832cad294cc",
+        "242": "2be15bb6-21b4-4fa0-a559-810200cf78ee",
+        "243": "6df8e1cd-111a-4541-9003-87f5f7cdc686",
+        "244": "8ec0d4d4-97ef-4753-bba2-c87d7a6113f3",
+        "245": "1fe429da-bb00-49c3-a07b-fa54af7bc090",
+        "246": "d4ad2987-9c8d-4e64-b996-2e964a8dbbd6",
+        "247": "7e7833a0-85f0-49e5-848a-acd5204d7d81",
+        "248": "45b5aa32-4649-4ee3-ae5f-f2853a09945c",
+        "249": "00a7edd1-0522-45d7-8971-358491a8cc60",
+        "250": "f2c2c809-3758-4b61-9d6a-be01bf7d78c9",
+        "251": "feec5c34-e1ad-4090-94aa-75d7837b7695",
+        "252": "f535808d-cc8b-47fc-9080-77fda2f37c42",
+        "253": "9e25a283-a372-43b5-bd13-a4c2f7ece605",
+        "254": "41590dca-3163-49b6-b02a-af31acbb0fd7",
+        "255": "b5e027a1-da7c-4a30-99f0-0ce9203ede10",
+        "256": "bf1135df-a008-4870-a735-708c928c1fea",
+        "257": "ce969e1f-41d3-493e-9809-dde68cd520f0",
+        "258": "608f7d6f-f305-4718-a1dc-e0dda8145959",
+        "259": "4bd49fce-32d0-408c-91f9-13d47d99b7db",
+        "260": "fa51698e-adf7-4ce1-9eb2-7d5a1bdd68fc",
+        "261": "e04c7841-e84c-41b2-9f56-cfbc9fd6990e",
+        "262": "ea49a85c-07d6-4c9d-b62e-34c3b2eda117",
+        "263": "7eec2525-b05f-4f83-b7c8-cf0e92a65bcc",
+        "264": "30ad3f5a-ac35-44a1-a2ea-62df17257443",
+        "265": "fce44be0-a688-4dde-842d-a8e768656651",
+        "266": "b70465bf-3e9c-4fd8-b6f0-e5d5e735f605",
+        "267": "69713c55-3fff-4e51-9657-716fbdb58236",
+        "268": "ebf813be-fb5d-4b2b-a55b-c527c7a44ec7",
+        "269": "62a7dfce-a95a-4674-b7e5-85a3e970c1da",
+        "270": "4b92a6b0-453d-446e-86bd-17fcbb734df0",
+        "271": "2ef2ecf4-cece-4179-8f87-832be9226d51",
+        "272": "9217e256-1d16-45f1-91aa-fc292138fa51",
+        "273": "10b95e7b-19d4-46bd-a0a1-5952569ad319",
+        "274": "491a3578-8561-4bbd-b46b-2ea31d746116",
+        "275": "0e0df5ee-3e04-4625-bc2f-16b20cb094a8",
+        "276": "ed7b3817-d8bd-4e3b-a627-c27829eb950a",
+        "277": "c6ea0a54-3ccb-4d58-9cbd-3be22cc6875d",
+        "278": "06de05bb-86a9-4363-a7d5-a28ccea5a25b",
+        "279": "86db91ae-30d4-4736-9716-a68e0cf188ea",
+        "280": "478f4ac9-a5ed-4843-a781-06371b8d0566",
+        "281": "c3884d89-2005-4646-a742-c114c2b60830",
+        "282": "898c86bf-a86c-4948-b55f-1645babe6cce",
+        "283": "1fc569f1-ef01-4073-96fc-5adbdc6e4d03",
+        "284": "9ead4ad5-96ed-4e28-9703-d495d8356a4a",
+        "285": "f967124f-b68b-4c87-a255-9c608a39544f",
+        "286": "a77f69e9-d2e1-43a1-9706-199384e2e2f3",
+        "287": "87cf4017-b805-4271-b34f-4b41159e9d94",
+        "288": "832a233e-c469-4c9e-9400-65cf099222bc",
+        "289": "867f228f-b370-4eed-9bd0-827d495c0824",
+        "290": "6beec878-2e5b-4c14-8480-c420410d8ea1",
+        "291": "8da5f890-802c-4441-9f29-2d5840897202",
+        "292": "0055c864-fdeb-47dc-acb3-39b6bebd6dad",
+        "293": "65a36ade-840a-4821-8daa-4d94b339536b",
+        "294": "dae82282-2d27-4afb-9ff1-434f41517062",
+        "295": "463c6dd3-6396-4919-bc22-5ab4ae2f79e1",
+        "296": "b9ee3685-38de-4bf4-9d82-7ce10dfd156d",
+        "297": "9686880c-3a4e-45df-bb2d-777db82dca25",
+        "298": "3d7d2524-ff33-4edb-863a-b0217bb0c79e",
+        "299": "029f98ad-0da0-4c95-9c06-b04c835c1dc9",
+        "300": "48abf41b-33f8-4119-aa32-bb8084c40bd7",
+        "301": "57c914a9-c9cd-49b5-a2b9-059bd3696ecb",
+        "302": "62d93f4b-771b-4826-8e18-70d5d525cf22",
+        "303": "d6c0f7c5-f9e2-409f-9a91-dc93108d241a",
+        "304": "faab4155-7535-4748-a209-0787a4b746e5",
+        "305": "baee9ea7-29e7-4e99-9b5f-3c838b5e66cc",
+        "306": "ee2476c9-3d88-4234-8700-ef43966b61cb",
+        "307": "9d96ebe7-c383-4e96-99f6-768cef6d0c0e",
+        "308": "83407c47-1864-4bff-ade0-f23a231e8164",
+        "309": "701e1c25-0aa6-44c5-a44b-ff631890d785",
+        "310": "6e425ed2-0aea-40aa-9d6c-bb78e89d7dcd",
+        "311": "ed06e2b2-96da-4bf3-8a8e-aa0e55bc2386",
+        "312": "a65b90cf-4b40-40b5-8d0a-708e31368020",
+        "313": "15f7bbde-8af1-44c8-b95e-a29cbed8592f",
+        "314": "c86e8121-0d3a-4f92-a861-bbbe3b6a9fec",
+        "315": "13e090fc-7683-4c8b-863f-0816dce05f55",
+        "316": "c053ad11-d895-4d7a-b02a-aa95f80b6618",
+        "317": "df83a9c8-aac7-4331-b6b5-a36d8d5c8c7d",
+        "318": "2af6484d-a002-4404-ba05-30b960e8a9ba",
+        "319": "0d4cb538-eab3-47c9-a999-8b3a2ad8338f"
+    },
+    "label": {
+        "0": "BETRIEBSINTERNE AUFTRAGSNUMMER",
+        "1": "SAP BEZEICHNUNG",
+        "2": "ARTIKELNUMMER",
+        "3": "AUFTRAGSMENGE_SOLL",
+        "4": "AUFTRAGSMENGE_IST",
+        "5": "BETRIEBSART",
+        "6": "HEIZPROGRAMMNUMMER",
+        "7": "STATIONSNUMMER",
+        "8": "INNENDRUCK 2_SOLL",
+        "9": "INNENDRUCK 3_SOLL",
+        "10": "INNENDRUCK 4_SOLL",
+        "11": "INNENDRUCK 5_SOLL",
+        "12": "INNENDRUCK 6_SOLL",
+        "13": "INNENDRUCK 7_SOLL",
+        "14": "INNENDRUCK 9_SOLL",
+        "15": "INNENDRUCK 10_SOLL",
+        "16": "INNENDRUCK 11_SOLL",
+        "17": "INNENDRUCK 13_SOLL",
+        "18": "INNENDRUCK 14_SOLL",
+        "19": "INNENDRUCK 15_SOLL",
+        "20": "INNENDRUCK 16_SOLL",
+        "21": "INNENDRUCK 17_SOLL",
+        "22": "INNENDRUCK 19_SOLL",
+        "23": "INNENDRUCK 20_SOLL",
+        "24": "SOLLDRUCK 1_SOLL",
+        "25": "SOLLDRUCK 2_SOLL",
+        "26": "SOLLDRUCK 3_SOLL",
+        "27": "SOLLDRUCK 4_SOLL",
+        "28": "SOLLDRUCK 6_SOLL",
+        "29": "SOLLDRUCK 7_SOLL",
+        "30": "SOLLDRUCK 8_SOLL",
+        "31": "SOLLDRUCK 9_SOLL",
+        "32": "SOLLDRUCK 10_SOLL",
+        "33": "SOLLDRUCK 11_SOLL",
+        "34": "SOLLDRUCK 13_SOLL",
+        "35": "SOLLDRUCK 14_SOLL",
+        "36": "SOLLDRUCK 15_SOLL",
+        "37": "SOLLDRUCK 16_SOLL",
+        "38": "SOLLDRUCK 18_SOLL",
+        "39": "SOLLDRUCK 20_SOLL",
+        "40": "HEIZREGISTER ZEIT 1_SOLL",
+        "41": "HEIZREGISTER ZEIT 3_SOLL",
+        "42": "HEIZREGISTER ZEIT 4_SOLL",
+        "43": "HEIZREGISTER ZEIT 5_SOLL",
+        "44": "HEIZREGISTER ZEIT 6_SOLL",
+        "45": "HEIZREGISTER ZEIT 7_SOLL",
+        "46": "HEIZREGISTER ZEIT 8_SOLL",
+        "47": "HEIZREGISTER ZEIT 10_SOLL",
+        "48": "HEIZREGISTER ZEIT 11_SOLL",
+        "49": "HEIZREGISTER ZEIT 12_SOLL",
+        "50": "HEIZREGISTER ZEIT 13_SOLL",
+        "51": "HEIZREGISTER ZEIT 14_SOLL",
+        "52": "HEIZREGISTER ZEIT 15_SOLL",
+        "53": "HEIZREGISTER ZEIT 17_SOLL",
+        "54": "HEIZREGISTER ZEIT 18_SOLL",
+        "55": "HEIZREGISTER ZEIT 19_SOLL",
+        "56": "HEIZREGISTER ZEIT 20_SOLL",
+        "57": "HEIZREGISTER TEMPERATUR 1_SOLL",
+        "58": "HEIZREGISTER TEMPERATUR 2_SOLL",
+        "59": "HEIZREGISTER TEMPERATUR 3_SOLL",
+        "60": "HEIZREGISTER TEMPERATUR 6_SOLL",
+        "61": "HEIZREGISTER TEMPERATUR 7_SOLL",
+        "62": "HEIZREGISTER TEMPERATUR 8_SOLL",
+        "63": "HEIZREGISTER TEMPERATUR 10_SOLL",
+        "64": "HEIZREGISTER TEMPERATUR 11_SOLL",
+        "65": "HEIZREGISTER TEMPERATUR 12_SOLL",
+        "66": "HEIZREGISTER TEMPERATUR 13_SOLL",
+        "67": "HEIZREGISTER TEMPERATUR 14_SOLL",
+        "68": "HEIZREGISTER TEMPERATUR 15_SOLL",
+        "69": "HEIZREGISTER TEMPERATUR 17_SOLL",
+        "70": "HEIZREGISTER TEMPERATUR 18_SOLL",
+        "71": "HEIZREGISTER TEMPERATUR 19_SOLL",
+        "72": "HEIZREGISTER TEMPERATUR 20_SOLL",
+        "73": "DURCHBLASZEIT",
+        "74": "ABSCHALTPUNKT FÜLLEN",
+        "75": "DREHEN",
+        "76": "TEMPERATUR OGW_IST",
+        "77": "TEMPERATUR UGW_IST",
+        "78": "DRUCK OGW_IST",
+        "79": "DRUCK UGW_IST",
+        "80": "HEIZUNGSART (DIREKT/INDIREKT)",
+        "81": "STÖRUNG 33-48",
+        "82": "STÖRUNG 49-64",
+        "83": "GESAMTHEIZZEIT HEIZREGISTER_SOLL",
+        "84": "GESAMTHEIZZEIT INNEN_IST",
+        "85": "GESAMTHEIZZEIT HEIZREGISTER_IST",
+        "86": "TEMPERATUR OGW_SOLL",
+        "87": "TEMPERATUR UGW_SOLL",
+        "88": "DRUCK OGW_SOLL",
+        "89": "TEMPERATUR INNEN_IST",
+        "90": "DRUCK INNEN_IST",
+        "91": "DRUCK HEIZREGISTER_IST",
+        "92": "TEMPERATUR FÜR REGLER_IST",
+        "93": "DRUCK FÜR REGLER_IST",
+        "94": "REZEPTNUMMER_SOLL",
+        "95": "REZEPTNUMMER_IST",
+        "96": "HEIZSCHRITT 2 MINUSTOLERANZ TEMPERATUR",
+        "97": "HEIZSCHRITT 3 MINUSTOLERANZ TEMPERATUR",
+        "98": "HEIZSCHRITT 4 MINUSTOLERANZ TEMPERATUR",
+        "99": "HEIZSCHRITT 5 MINUSTOLERANZ TEMPERATUR",
+        "100": "HEIZSCHRITT 6 MINUSTOLERANZ TEMPERATUR",
+        "101": "HEIZSCHRITT 7 MINUSTOLERANZ TEMPERATUR",
+        "102": "HEIZSCHRITT 10 MINUSTOLERANZ TEMPERATUR",
+        "103": "HEIZSCHRITT 12 MINUSTOLERANZ TEMPERATUR",
+        "104": "HEIZSCHRITT 13 MINUSTOLERANZ TEMPERATUR",
+        "105": "HEIZSCHRITT 14 MINUSTOLERANZ TEMPERATUR",
+        "106": "HEIZSCHRITT 15 MINUSTOLERANZ TEMPERATUR",
+        "107": "HEIZSCHRITT 17 MINUSTOLERANZ TEMPERATUR",
+        "108": "HEIZSCHRITT 18 MINUSTOLERANZ TEMPERATUR",
+        "109": "HEIZSCHRITT 19 MINUSTOLERANZ TEMPERATUR",
+        "110": "HEIZSCHRITT 1 PLUSTOLERANZ TEMPERATUR",
+        "111": "HEIZSCHRITT 2 PLUSTOLERANZ TEMPERATUR",
+        "112": "HEIZSCHRITT 3 PLUSTOLERANZ TEMPERATUR",
+        "113": "HEIZSCHRITT 4 PLUSTOLERANZ TEMPERATUR",
+        "114": "HEIZSCHRITT 5 PLUSTOLERANZ TEMPERATUR",
+        "115": "HEIZSCHRITT 6 PLUSTOLERANZ TEMPERATUR",
+        "116": "HEIZSCHRITT 8 PLUSTOLERANZ TEMPERATUR",
+        "117": "HEIZSCHRITT 9 PLUSTOLERANZ TEMPERATUR",
+        "118": "HEIZSCHRITT 10 PLUSTOLERANZ TEMPERATUR",
+        "119": "HEIZSCHRITT 11 PLUSTOLERANZ TEMPERATUR",
+        "120": "HEIZSCHRITT 12 PLUSTOLERANZ TEMPERATUR",
+        "121": "HEIZSCHRITT 13 PLUSTOLERANZ TEMPERATUR",
+        "122": "HEIZSCHRITT 15 PLUSTOLERANZ TEMPERATUR",
+        "123": "HEIZSCHRITT 16 PLUSTOLERANZ TEMPERATUR",
+        "124": "HEIZSCHRITT 17 PLUSTOLERANZ TEMPERATUR",
+        "125": "HEIZSCHRITT 18 PLUSTOLERANZ TEMPERATUR",
+        "126": "HEIZSCHRITT 19 PLUSTOLERANZ TEMPERATUR",
+        "127": "HEIZSCHRITT 20 PLUSTOLERANZ TEMPERATUR",
+        "128": "HEIZSCHRITT 2 MINUSTOLERANZ DRUCK",
+        "129": "HEIZSCHRITT 3 MINUSTOLERANZ DRUCK",
+        "130": "HEIZSCHRITT 4 MINUSTOLERANZ DRUCK",
+        "131": "HEIZSCHRITT 5 MINUSTOLERANZ DRUCK",
+        "132": "HEIZSCHRITT 6 MINUSTOLERANZ DRUCK",
+        "133": "HEIZSCHRITT 7 MINUSTOLERANZ DRUCK",
+        "134": "HEIZSCHRITT 8 MINUSTOLERANZ DRUCK",
+        "135": "HEIZSCHRITT 10 MINUSTOLERANZ DRUCK",
+        "136": "HEIZSCHRITT 11 MINUSTOLERANZ DRUCK",
+        "137": "HEIZSCHRITT 12 MINUSTOLERANZ DRUCK",
+        "138": "HEIZSCHRITT 13 MINUSTOLERANZ DRUCK",
+        "139": "HEIZSCHRITT 14 MINUSTOLERANZ DRUCK",
+        "140": "HEIZSCHRITT 15 MINUSTOLERANZ DRUCK",
+        "141": "HEIZSCHRITT 17 MINUSTOLERANZ DRUCK",
+        "142": "HEIZSCHRITT 18 MINUSTOLERANZ DRUCK",
+        "143": "HEIZSCHRITT 20 MINUSTOLERANZ DRUCK",
+        "144": "HEIZSCHRITT 1 PLUSTOLERANZ DRUCK",
+        "145": "HEIZSCHRITT 2 PLUSTOLERANZ DRUCK",
+        "146": "HEIZSCHRITT 3 PLUSTOLERANZ DRUCK",
+        "147": "HEIZSCHRITT 4 PLUSTOLERANZ DRUCK",
+        "148": "HEIZSCHRITT 6 PLUSTOLERANZ DRUCK",
+        "149": "HEIZSCHRITT 7 PLUSTOLERANZ DRUCK",
+        "150": "HEIZSCHRITT 8 PLUSTOLERANZ DRUCK",
+        "151": "HEIZSCHRITT 9 PLUSTOLERANZ DRUCK",
+        "152": "HEIZSCHRITT 10 PLUSTOLERANZ DRUCK",
+        "153": "HEIZSCHRITT 11 PLUSTOLERANZ DRUCK",
+        "154": "HEIZSCHRITT 12 PLUSTOLERANZ DRUCK",
+        "155": "HEIZSCHRITT 14 PLUSTOLERANZ DRUCK",
+        "156": "HEIZSCHRITT 15 PLUSTOLERANZ DRUCK",
+        "157": "HEIZSCHRITT 16 PLUSTOLERANZ DRUCK",
+        "158": "HEIZSCHRITT 17 PLUSTOLERANZ DRUCK",
+        "159": "HEIZSCHRITT 18 PLUSTOLERANZ DRUCK",
+        "160": "HEIZSCHRITT 19 PLUSTOLERANZ DRUCK",
+        "161": "ERLAUBTE MAXIMALTEMPERATUR_AKTUELL",
+        "162": "ERLAUBTE MINIMALTEMPERATUR_AKTUELL",
+        "163": "ERLAUBTER MAXIMALDRUCK_AKTUELL",
+        "164": "DB____126.LMN_HLM",
+        "165": "DB____126.I_ITLVAL",
+        "166": "DB____126.MAN",
+        "167": "DB____126.SP_INT",
+        "168": "DB____126.CYCLE",
+        "169": "DB____126.LMN",
+        "170": "DB____126.PV",
+        "171": "DB____126.CYCLE_P",
+        "172": "DB____126.LMN_LLM",
+        "173": "DB____126.PV_OFFS",
+        "174": "DB____126.LMN_FAC",
+        "175": "DB____126.LMN_OFFS",
+        "176": "DB____126.PER_TM",
+        "177": "DB____126.TUN_DLMN",
+        "178": "DB____126.ER",
+        "179": "DB____126.LMN_D",
+        "180": "DB____126.PI_CON.GAIN",
+        "181": "DB____126.PI_CON.TI",
+        "182": "DB____126.PID_CON.GAIN",
+        "183": "DB____126.PID_CON.TD",
+        "184": "DB____126.PAR_SAVE.PFAC_SP",
+        "185": "DB____126.PAR_SAVE.GAIN",
+        "186": "DB____126.PAR_SAVE.TI",
+        "187": "DB____126.PAR_SAVE.TD",
+        "188": "DB____126.PAR_SAVE.D_F",
+        "189": "DB____126.PFAC_SP",
+        "190": "DB____126.GAIN",
+        "191": "DB____126.TI",
+        "192": "DB____126.TD",
+        "193": "DB____126.D_F",
+        "194": "DB____126.CON_ZONE",
+        "195": "DB____126.TU",
+        "196": "DB____126.TA",
+        "197": "DB____126.KIG",
+        "198": "DB____126.N_PTN",
+        "199": "DB____126.T_P_INF",
+        "200": "DB____126.P_INF",
+        "201": "DB____126.LMN0",
+        "202": "DB____126.PV0",
+        "203": "DB____126.PVDT",
+        "204": "ERLAUBTER MINIMALDRUCK_AKTUELL",
+        "205": "HEIZSCHRITT 19 MINUSTOLERANZ DRUCK",
+        "206": "HEIZSCHRITT 14 PLUSTOLERANZ TEMPERATUR",
+        "207": "HEIZSCHRITT 16 MINUSTOLERANZ TEMPERATUR",
+        "208": "HEIZSCHRITT 9 MINUSTOLERANZ TEMPERATUR",
+        "209": "STÖRUNG 17-32",
+        "210": "HEIZREGISTER TEMPERATUR 5_SOLL",
+        "211": "SOLLDRUCK 19_SOLL",
+        "212": "SOLLDRUCK 17_SOLL",
+        "213": "INNENDRUCK 12_SOLL",
+        "214": "ZUSATZWETE.MIN_TOL_DRUCK_INT",
+        "215": "ZUSATZWETE.MAX_TOL_DRUCK_INT",
+        "216": "ZUSATZWETE.MIN_TOL_SOLL_TEMP",
+        "217": "ZUSATZWETE.MAX_TOL_SOLL_TEMP",
+        "218": "REGLER_DB_HZRG_D.LMN_PER",
+        "219": "REGLER_DB_HZRG_D.PER_MODE",
+        "220": "REGLER_DB_HZRG_D.PHASE",
+        "221": "REGLER_DB_HZRG_D.STATUS_H",
+        "222": "REGLER_DB_HZRG_D.STATUS_D",
+        "223": "REGLER_DB_HZRG_D.POI_CMAX",
+        "224": "REGLER_DB_HZRG_D.POI_CYCL",
+        "225": "REGLER_DB_HZRG_I.PV_PER",
+        "226": "REGLER_DB_HZRG_I.SELECT",
+        "227": "REGLER_DB_HZRG_I.LMN_PER",
+        "228": "REGLER_DB_HZRG_I.PER_MODE",
+        "229": "REGLER_DB_HZRG_I.STATUS_H",
+        "230": "REGLER_DB_HZRG_I.STATUS_D",
+        "231": "REGLER_DB_HZRG_I.FIL_CYC",
+        "232": "REGLER_DB_HZRG_I.POI_CMAX",
+        "233": "REGLER_DB_HZRG_I.POI_CYCL",
+        "234": "REGLER_DB_FÜR_DAMPFDRUCK.PV_PER",
+        "235": "REGLER_DB_FÜR_DAMPFDRUCK.LMN_PER",
+        "236": "REGLER_DB_FÜR_DAMPFDRUCK.PER_MODE",
+        "237": "REGLER_DB_FÜR_DAMPFDRUCK.PHASE",
+        "238": "REGLER_DB_FÜR_DAMPFDRUCK.STATUS_H",
+        "239": "REGLER_DB_FÜR_DAMPFDRUCK.POI_CMAX",
+        "240": "REGLER_DB_FÜR_DAMPFDRUCK.POI_CYCL",
+        "241": "REGLER_DB_FÜR_TEMPERATUR.PV_PER",
+        "242": "REGLER_DB_FÜR_TEMPERATUR.SELECT",
+        "243": "REGLER_DB_FÜR_TEMPERATUR.LMN_PER",
+        "244": "REGLER_DB_FÜR_TEMPERATUR.PER_MODE",
+        "245": "REGLER_DB_FÜR_TEMPERATUR.STATUS_H",
+        "246": "REGLER_DB_FÜR_TEMPERATUR.STATUS_D",
+        "247": "REGLER_DB_FÜR_TEMPERATUR.FIL_CYC",
+        "248": "REGLER_DB_FÜR_TEMPERATUR.POI_CMAX",
+        "249": "REGLER_DB_FÜR_TEMPERATUR.POI_CYCL",
+        "250": "DATEN.BANR",
+        "251": "DATEN.HEIZPROGNR",
+        "252": "DATEN.MAX_SOLLTEMP",
+        "253": "DATEN.SOLLTEMP",
+        "254": "DATEN.ISTTEMP",
+        "255": "DATEN.MIN_SOLLDRUCK",
+        "256": "DATEN.MAX_SOLLDRUCK",
+        "257": "DATEN.SOLLDRUCK",
+        "258": "ANALOGE_ISTWERTE.DB_VAR",
+        "259": "ANALOGE_ISTWERTE.IST_TEMPERATUR.EINGANGSTYP",
+        "260": "ANALOGE_ISTWERTE.IST_DRUCK.EINGANGSTYP",
+        "261": "ANALOGE_ISTWERTE.IST_DRUCK.ISTWERT_INT",
+        "262": "ANALOGE_ISTWERTE.PEW_518.EINGANGSTYP",
+        "263": "ANALOGE_ISTWERTE.PEW_520.EINGANGSTYP",
+        "264": "ANALOGE_ISTWERTE.PEW_520.ISTWERT_INT",
+        "265": "ANALOGE_ISTWERTE.PEW_522.EINGANGSTYP",
+        "266": "ANALOGE_ISTWERTE.PEW_522.ISTWERT_INT",
+        "267": "ANALOGE_ISTWERTE.PEW_524.EINGANGSTYP",
+        "268": "ANALOGE_ISTWERTE.PEW_524.ISTWERT_INT",
+        "269": "ANALOGE_ISTWERTE.PEW_526.ISTWERT_INT",
+        "270": "INNENDRUCK 8_SOLL",
+        "271": "INNENDRUCK 1_SOLL",
+        "272": "SAP NUMMER",
+        "273": "SOLLDRUCK 12_SOLL",
+        "274": "SOLLDRUCK 5_SOLL",
+        "275": "INNENDRUCK 18_SOLL",
+        "276": "HEIZREGISTER TEMPERATUR 4_SOLL",
+        "277": "HEIZREGISTER ZEIT 16_SOLL",
+        "278": "HEIZREGISTER ZEIT 9_SOLL",
+        "279": "HEIZREGISTER ZEIT 2_SOLL",
+        "280": "STÖRUNG 1-16",
+        "281": "LÜFTER",
+        "282": "HEIZREGISTER TEMPERATUR 16_SOLL",
+        "283": "HEIZREGISTER TEMPERATUR 9_SOLL",
+        "284": "HEIZSCHRITT 8 MINUSTOLERANZ TEMPERATUR",
+        "285": "HEIZSCHRITT 1 MINUSTOLERANZ TEMPERATUR",
+        "286": "DRUCK UGW_SOLL",
+        "287": "GESAMTHEIZZEIT INNEN_SOLL",
+        "288": "HEIZSCHRITT 7 PLUSTOLERANZ TEMPERATUR",
+        "289": "HEIZSCHRITT 20 MINUSTOLERANZ TEMPERATUR",
+        "290": "HEIZSCHRITT 11 MINUSTOLERANZ TEMPERATUR",
+        "291": "HEIZSCHRITT 16 MINUSTOLERANZ DRUCK",
+        "292": "HEIZSCHRITT 9 MINUSTOLERANZ DRUCK",
+        "293": "HEIZSCHRITT 1 MINUSTOLERANZ DRUCK",
+        "294": "HEIZSCHRITT 20 PLUSTOLERANZ DRUCK",
+        "295": "HEIZSCHRITT 13 PLUSTOLERANZ DRUCK",
+        "296": "HEIZSCHRITT 5 PLUSTOLERANZ DRUCK",
+        "297": "DB____126.LMN_I",
+        "298": "DB____126.DEADB_W",
+        "299": "DB____126.P_B_TM",
+        "300": "DB____126.PID_CON.TI",
+        "301": "DB____126.PAR_SAVE.CON_ZONE",
+        "302": "DB____126.TM_LAG_P",
+        "303": "DB____126.PV_FAC",
+        "304": "DB____126.LMN_P",
+        "305": "DB____126.GAIN_P",
+        "306": "DB____126.PVDT0",
+        "307": "REGLER_DB_HZRG_D.PV_PER",
+        "308": "REGLER_DB_HZRG_D.SELECT",
+        "309": "REGLER_DB_HZRG_D.FIL_CYC",
+        "310": "REGLER_DB_HZRG_I.PHASE",
+        "311": "REGLER_DB_FÜR_DAMPFDRUCK.SELECT",
+        "312": "REGLER_DB_FÜR_DAMPFDRUCK.STATUS_D",
+        "313": "REGLER_DB_FÜR_DAMPFDRUCK.FIL_CYC",
+        "314": "REGLER_DB_FÜR_TEMPERATUR.PHASE",
+        "315": "DATEN.MIN_SOLLTEMP",
+        "316": "DATEN.ISTDRUCK",
+        "317": "ANALOGE_ISTWERTE.IST_TEMPERATUR.ISTWERT_INT",
+        "318": "ANALOGE_ISTWERTE.PEW_518.ISTWERT_INT",
+        "319": "ANALOGE_ISTWERTE.PEW_526.EINGANGSTYP"
+    },
+    "config": {
+        "0": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 22,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW22",
+            "dataBlockNumber": 10
+        },
+        "1": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 24,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "string",
+                "byteCount": 30
+            },
+            "dataClass": "string",
+            "identifier": "DB10.DBB24",
+            "dataBlockNumber": 10
+        },
+        "2": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 76,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "string",
+                "byteCount": 18
+            },
+            "dataClass": "string",
+            "identifier": "DB10.DBB76",
+            "dataBlockNumber": 10
+        },
+        "3": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 96,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW96",
+            "dataBlockNumber": 10
+        },
+        "4": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 98,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW98",
+            "dataBlockNumber": 10
+        },
+        "5": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 100,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW100",
+            "dataBlockNumber": 10
+        },
+        "6": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 104,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW104",
+            "dataBlockNumber": 10
+        },
+        "7": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 134,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW134",
+            "dataBlockNumber": 10
+        },
+        "8": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 144,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW144",
+            "dataBlockNumber": 10
+        },
+        "9": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 146,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW146",
+            "dataBlockNumber": 10
+        },
+        "10": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 148,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW148",
+            "dataBlockNumber": 10
+        },
+        "11": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 150,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW150",
+            "dataBlockNumber": 10
+        },
+        "12": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 152,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW152",
+            "dataBlockNumber": 10
+        },
+        "13": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 154,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW154",
+            "dataBlockNumber": 10
+        },
+        "14": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 158,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW158",
+            "dataBlockNumber": 10
+        },
+        "15": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 160,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW160",
+            "dataBlockNumber": 10
+        },
+        "16": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 162,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW162",
+            "dataBlockNumber": 10
+        },
+        "17": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 166,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW166",
+            "dataBlockNumber": 10
+        },
+        "18": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 168,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW168",
+            "dataBlockNumber": 10
+        },
+        "19": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 170,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW170",
+            "dataBlockNumber": 10
+        },
+        "20": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 172,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW172",
+            "dataBlockNumber": 10
+        },
+        "21": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 174,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW174",
+            "dataBlockNumber": 10
+        },
+        "22": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 178,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW178",
+            "dataBlockNumber": 10
+        },
+        "23": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 180,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW180",
+            "dataBlockNumber": 10
+        },
+        "24": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 182,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW182",
+            "dataBlockNumber": 10
+        },
+        "25": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 184,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW184",
+            "dataBlockNumber": 10
+        },
+        "26": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 186,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW186",
+            "dataBlockNumber": 10
+        },
+        "27": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 188,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW188",
+            "dataBlockNumber": 10
+        },
+        "28": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 192,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW192",
+            "dataBlockNumber": 10
+        },
+        "29": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 194,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW194",
+            "dataBlockNumber": 10
+        },
+        "30": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 196,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW196",
+            "dataBlockNumber": 10
+        },
+        "31": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 198,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW198",
+            "dataBlockNumber": 10
+        },
+        "32": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 200,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW200",
+            "dataBlockNumber": 10
+        },
+        "33": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 202,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW202",
+            "dataBlockNumber": 10
+        },
+        "34": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 206,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW206",
+            "dataBlockNumber": 10
+        },
+        "35": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 208,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW208",
+            "dataBlockNumber": 10
+        },
+        "36": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 210,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW210",
+            "dataBlockNumber": 10
+        },
+        "37": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 212,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW212",
+            "dataBlockNumber": 10
+        },
+        "38": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 216,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW216",
+            "dataBlockNumber": 10
+        },
+        "39": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 220,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW220",
+            "dataBlockNumber": 10
+        },
+        "40": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 222,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW222",
+            "dataBlockNumber": 10
+        },
+        "41": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 226,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW226",
+            "dataBlockNumber": 10
+        },
+        "42": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 228,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW228",
+            "dataBlockNumber": 10
+        },
+        "43": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 230,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW230",
+            "dataBlockNumber": 10
+        },
+        "44": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 232,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW232",
+            "dataBlockNumber": 10
+        },
+        "45": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 234,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW234",
+            "dataBlockNumber": 10
+        },
+        "46": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 236,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW236",
+            "dataBlockNumber": 10
+        },
+        "47": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 240,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW240",
+            "dataBlockNumber": 10
+        },
+        "48": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 242,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW242",
+            "dataBlockNumber": 10
+        },
+        "49": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 244,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW244",
+            "dataBlockNumber": 10
+        },
+        "50": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 246,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW246",
+            "dataBlockNumber": 10
+        },
+        "51": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 248,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW248",
+            "dataBlockNumber": 10
+        },
+        "52": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 250,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW250",
+            "dataBlockNumber": 10
+        },
+        "53": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 254,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW254",
+            "dataBlockNumber": 10
+        },
+        "54": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 256,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW256",
+            "dataBlockNumber": 10
+        },
+        "55": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 258,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW258",
+            "dataBlockNumber": 10
+        },
+        "56": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 260,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW260",
+            "dataBlockNumber": 10
+        },
+        "57": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 262,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW262",
+            "dataBlockNumber": 10
+        },
+        "58": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 264,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW264",
+            "dataBlockNumber": 10
+        },
+        "59": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 266,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW266",
+            "dataBlockNumber": 10
+        },
+        "60": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 272,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW272",
+            "dataBlockNumber": 10
+        },
+        "61": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 274,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW274",
+            "dataBlockNumber": 10
+        },
+        "62": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 276,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW276",
+            "dataBlockNumber": 10
+        },
+        "63": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 280,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW280",
+            "dataBlockNumber": 10
+        },
+        "64": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 282,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW282",
+            "dataBlockNumber": 10
+        },
+        "65": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 284,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW284",
+            "dataBlockNumber": 10
+        },
+        "66": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 286,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW286",
+            "dataBlockNumber": 10
+        },
+        "67": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 288,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW288",
+            "dataBlockNumber": 10
+        },
+        "68": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 290,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW290",
+            "dataBlockNumber": 10
+        },
+        "69": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 294,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW294",
+            "dataBlockNumber": 10
+        },
+        "70": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 296,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW296",
+            "dataBlockNumber": 10
+        },
+        "71": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 298,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW298",
+            "dataBlockNumber": 10
+        },
+        "72": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 300,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW300",
+            "dataBlockNumber": 10
+        },
+        "73": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 302,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW302",
+            "dataBlockNumber": 10
+        },
+        "74": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 304,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW304",
+            "dataBlockNumber": 10
+        },
+        "75": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 308,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW308",
+            "dataBlockNumber": 10
+        },
+        "76": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 312,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW312",
+            "dataBlockNumber": 10
+        },
+        "77": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 314,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW314",
+            "dataBlockNumber": 10
+        },
+        "78": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 316,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW316",
+            "dataBlockNumber": 10
+        },
+        "79": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 318,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW318",
+            "dataBlockNumber": 10
+        },
+        "80": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 320,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW320",
+            "dataBlockNumber": 10
+        },
+        "81": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 364,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "word"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW364",
+            "dataBlockNumber": 10
+        },
+        "82": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 366,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "word"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW366",
+            "dataBlockNumber": 10
+        },
+        "83": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 370,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW370",
+            "dataBlockNumber": 10
+        },
+        "84": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 376,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW376",
+            "dataBlockNumber": 10
+        },
+        "85": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 378,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW378",
+            "dataBlockNumber": 10
+        },
+        "86": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 384,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW384",
+            "dataBlockNumber": 10
+        },
+        "87": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 386,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW386",
+            "dataBlockNumber": 10
+        },
+        "88": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 388,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW388",
+            "dataBlockNumber": 10
+        },
+        "89": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 400,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW400",
+            "dataBlockNumber": 10
+        },
+        "90": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 402,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW402",
+            "dataBlockNumber": 10
+        },
+        "91": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 404,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW404",
+            "dataBlockNumber": 10
+        },
+        "92": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 406,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW406",
+            "dataBlockNumber": 10
+        },
+        "93": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 408,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW408",
+            "dataBlockNumber": 10
+        },
+        "94": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 508,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW508",
+            "dataBlockNumber": 10
+        },
+        "95": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 510,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW510",
+            "dataBlockNumber": 10
+        },
+        "96": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 22,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW22",
+            "dataBlockNumber": 9
+        },
+        "97": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 24,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW24",
+            "dataBlockNumber": 9
+        },
+        "98": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 26,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW26",
+            "dataBlockNumber": 9
+        },
+        "99": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 28,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW28",
+            "dataBlockNumber": 9
+        },
+        "100": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 30,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW30",
+            "dataBlockNumber": 9
+        },
+        "101": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 32,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW32",
+            "dataBlockNumber": 9
+        },
+        "102": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 38,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW38",
+            "dataBlockNumber": 9
+        },
+        "103": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 42,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW42",
+            "dataBlockNumber": 9
+        },
+        "104": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 44,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW44",
+            "dataBlockNumber": 9
+        },
+        "105": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 46,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW46",
+            "dataBlockNumber": 9
+        },
+        "106": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 48,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW48",
+            "dataBlockNumber": 9
+        },
+        "107": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 52,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW52",
+            "dataBlockNumber": 9
+        },
+        "108": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 54,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW54",
+            "dataBlockNumber": 9
+        },
+        "109": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 56,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW56",
+            "dataBlockNumber": 9
+        },
+        "110": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 60,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW60",
+            "dataBlockNumber": 9
+        },
+        "111": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 62,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW62",
+            "dataBlockNumber": 9
+        },
+        "112": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 64,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW64",
+            "dataBlockNumber": 9
+        },
+        "113": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 66,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW66",
+            "dataBlockNumber": 9
+        },
+        "114": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 68,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW68",
+            "dataBlockNumber": 9
+        },
+        "115": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 70,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW70",
+            "dataBlockNumber": 9
+        },
+        "116": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 74,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW74",
+            "dataBlockNumber": 9
+        },
+        "117": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 76,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW76",
+            "dataBlockNumber": 9
+        },
+        "118": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 78,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW78",
+            "dataBlockNumber": 9
+        },
+        "119": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 80,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW80",
+            "dataBlockNumber": 9
+        },
+        "120": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 82,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW82",
+            "dataBlockNumber": 9
+        },
+        "121": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 84,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW84",
+            "dataBlockNumber": 9
+        },
+        "122": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 88,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW88",
+            "dataBlockNumber": 9
+        },
+        "123": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 90,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW90",
+            "dataBlockNumber": 9
+        },
+        "124": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 92,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW92",
+            "dataBlockNumber": 9
+        },
+        "125": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 94,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW94",
+            "dataBlockNumber": 9
+        },
+        "126": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 96,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW96",
+            "dataBlockNumber": 9
+        },
+        "127": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 98,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW98",
+            "dataBlockNumber": 9
+        },
+        "128": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 102,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW102",
+            "dataBlockNumber": 9
+        },
+        "129": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 104,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW104",
+            "dataBlockNumber": 9
+        },
+        "130": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 106,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW106",
+            "dataBlockNumber": 9
+        },
+        "131": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 108,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW108",
+            "dataBlockNumber": 9
+        },
+        "132": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 110,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW110",
+            "dataBlockNumber": 9
+        },
+        "133": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 112,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW112",
+            "dataBlockNumber": 9
+        },
+        "134": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 114,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW114",
+            "dataBlockNumber": 9
+        },
+        "135": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 118,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW118",
+            "dataBlockNumber": 9
+        },
+        "136": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 120,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW120",
+            "dataBlockNumber": 9
+        },
+        "137": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 122,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW122",
+            "dataBlockNumber": 9
+        },
+        "138": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 124,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW124",
+            "dataBlockNumber": 9
+        },
+        "139": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 126,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW126",
+            "dataBlockNumber": 9
+        },
+        "140": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 128,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW128",
+            "dataBlockNumber": 9
+        },
+        "141": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 132,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW132",
+            "dataBlockNumber": 9
+        },
+        "142": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 134,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW134",
+            "dataBlockNumber": 9
+        },
+        "143": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 138,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW138",
+            "dataBlockNumber": 9
+        },
+        "144": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 140,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW140",
+            "dataBlockNumber": 9
+        },
+        "145": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 142,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW142",
+            "dataBlockNumber": 9
+        },
+        "146": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 144,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW144",
+            "dataBlockNumber": 9
+        },
+        "147": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 146,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW146",
+            "dataBlockNumber": 9
+        },
+        "148": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 150,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW150",
+            "dataBlockNumber": 9
+        },
+        "149": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 152,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW152",
+            "dataBlockNumber": 9
+        },
+        "150": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 154,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW154",
+            "dataBlockNumber": 9
+        },
+        "151": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 156,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW156",
+            "dataBlockNumber": 9
+        },
+        "152": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 158,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW158",
+            "dataBlockNumber": 9
+        },
+        "153": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 160,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW160",
+            "dataBlockNumber": 9
+        },
+        "154": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 162,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW162",
+            "dataBlockNumber": 9
+        },
+        "155": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 166,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW166",
+            "dataBlockNumber": 9
+        },
+        "156": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 168,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW168",
+            "dataBlockNumber": 9
+        },
+        "157": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 170,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW170",
+            "dataBlockNumber": 9
+        },
+        "158": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 172,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW172",
+            "dataBlockNumber": 9
+        },
+        "159": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 174,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW174",
+            "dataBlockNumber": 9
+        },
+        "160": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 176,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW176",
+            "dataBlockNumber": 9
+        },
+        "161": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 10,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW10",
+            "dataBlockNumber": 9
+        },
+        "162": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 12,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW12",
+            "dataBlockNumber": 9
+        },
+        "163": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 14,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW14",
+            "dataBlockNumber": 9
+        },
+        "164": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 52,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "165": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 48,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "166": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 38,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "167": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 34,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "168": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 26,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "169": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 18,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "170": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 14,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "171": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 30,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "172": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 56,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "173": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 64,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "174": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 68,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "175": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 72,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "176": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 76,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "177": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 84,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "178": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 92,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "179": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 104,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "180": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 116,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "181": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 120,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "182": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 124,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "183": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 132,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "184": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 136,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "185": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 140,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "186": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 144,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "187": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 148,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "188": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 152,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "189": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 162,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "190": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 166,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "191": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 170,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "192": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 174,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "193": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 178,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "194": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 182,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "195": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 192,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "196": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 196,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "197": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 200,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "198": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 204,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "199": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 212,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "200": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 216,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "201": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 220,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "202": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 224,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "203": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 232,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "204": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 16,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW16",
+            "dataBlockNumber": 9
+        },
+        "205": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 136,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW136",
+            "dataBlockNumber": 9
+        },
+        "206": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 86,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW86",
+            "dataBlockNumber": 9
+        },
+        "207": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 50,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW50",
+            "dataBlockNumber": 9
+        },
+        "208": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 36,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW36",
+            "dataBlockNumber": 9
+        },
+        "209": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 362,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "word"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW362",
+            "dataBlockNumber": 10
+        },
+        "210": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 270,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW270",
+            "dataBlockNumber": 10
+        },
+        "211": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 218,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW218",
+            "dataBlockNumber": 10
+        },
+        "212": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 214,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW214",
+            "dataBlockNumber": 10
+        },
+        "213": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 164,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW164",
+            "dataBlockNumber": 10
+        },
+        "214": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 6,
+                "dataBlockNumber": 90
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB90.DBW6",
+            "dataBlockNumber": 90
+        },
+        "215": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 8,
+                "dataBlockNumber": 90
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB90.DBW8",
+            "dataBlockNumber": 90
+        },
+        "216": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 12,
+                "dataBlockNumber": 90
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB90.DBW12",
+            "dataBlockNumber": 90
+        },
+        "217": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 14,
+                "dataBlockNumber": 90
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB90.DBW14",
+            "dataBlockNumber": 90
+        },
+        "218": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 22,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW22",
+            "dataBlockNumber": 114
+        },
+        "219": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 88,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW88",
+            "dataBlockNumber": 114
+        },
+        "220": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 108,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW108",
+            "dataBlockNumber": 114
+        },
+        "221": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 110,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW110",
+            "dataBlockNumber": 114
+        },
+        "222": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 112,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW112",
+            "dataBlockNumber": 114
+        },
+        "223": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 250,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW250",
+            "dataBlockNumber": 114
+        },
+        "224": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 252,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW252",
+            "dataBlockNumber": 114
+        },
+        "225": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 4,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW4",
+            "dataBlockNumber": 116
+        },
+        "226": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 12,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW12",
+            "dataBlockNumber": 116
+        },
+        "227": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 22,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW22",
+            "dataBlockNumber": 116
+        },
+        "228": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 88,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW88",
+            "dataBlockNumber": 116
+        },
+        "229": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 110,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW110",
+            "dataBlockNumber": 116
+        },
+        "230": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 112,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW112",
+            "dataBlockNumber": 116
+        },
+        "231": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 248,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW248",
+            "dataBlockNumber": 116
+        },
+        "232": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 250,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW250",
+            "dataBlockNumber": 116
+        },
+        "233": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 252,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW252",
+            "dataBlockNumber": 116
+        },
+        "234": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 4,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW4",
+            "dataBlockNumber": 118
+        },
+        "235": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 22,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW22",
+            "dataBlockNumber": 118
+        },
+        "236": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 88,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW88",
+            "dataBlockNumber": 118
+        },
+        "237": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 108,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW108",
+            "dataBlockNumber": 118
+        },
+        "238": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 110,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW110",
+            "dataBlockNumber": 118
+        },
+        "239": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 250,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW250",
+            "dataBlockNumber": 118
+        },
+        "240": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 252,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW252",
+            "dataBlockNumber": 118
+        },
+        "241": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 4,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW4",
+            "dataBlockNumber": 122
+        },
+        "242": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 12,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW12",
+            "dataBlockNumber": 122
+        },
+        "243": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 22,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW22",
+            "dataBlockNumber": 122
+        },
+        "244": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 88,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW88",
+            "dataBlockNumber": 122
+        },
+        "245": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 110,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW110",
+            "dataBlockNumber": 122
+        },
+        "246": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 112,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW112",
+            "dataBlockNumber": 122
+        },
+        "247": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 248,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW248",
+            "dataBlockNumber": 122
+        },
+        "248": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 250,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW250",
+            "dataBlockNumber": 122
+        },
+        "249": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 252,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW252",
+            "dataBlockNumber": 122
+        },
+        "250": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 8,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW8",
+            "dataBlockNumber": 140
+        },
+        "251": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 62,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW62",
+            "dataBlockNumber": 140
+        },
+        "252": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 68,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW68",
+            "dataBlockNumber": 140
+        },
+        "253": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 70,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW70",
+            "dataBlockNumber": 140
+        },
+        "254": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 72,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW72",
+            "dataBlockNumber": 140
+        },
+        "255": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 74,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW74",
+            "dataBlockNumber": 140
+        },
+        "256": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 76,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW76",
+            "dataBlockNumber": 140
+        },
+        "257": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 78,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW78",
+            "dataBlockNumber": 140
+        },
+        "258": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 0,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW0",
+            "dataBlockNumber": 145
+        },
+        "259": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 4,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW4",
+            "dataBlockNumber": 145
+        },
+        "260": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 30,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW30",
+            "dataBlockNumber": 145
+        },
+        "261": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 48,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW48",
+            "dataBlockNumber": 145
+        },
+        "262": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 56,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW56",
+            "dataBlockNumber": 145
+        },
+        "263": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 82,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW82",
+            "dataBlockNumber": 145
+        },
+        "264": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 100,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW100",
+            "dataBlockNumber": 145
+        },
+        "265": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 108,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW108",
+            "dataBlockNumber": 145
+        },
+        "266": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 126,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW126",
+            "dataBlockNumber": 145
+        },
+        "267": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 134,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW134",
+            "dataBlockNumber": 145
+        },
+        "268": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 152,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW152",
+            "dataBlockNumber": 145
+        },
+        "269": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 178,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW178",
+            "dataBlockNumber": 145
+        },
+        "270": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 156,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW156",
+            "dataBlockNumber": 10
+        },
+        "271": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 142,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW142",
+            "dataBlockNumber": 10
+        },
+        "272": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 56,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "string",
+                "byteCount": 18
+            },
+            "dataClass": "string",
+            "identifier": "DB10.DBB56",
+            "dataBlockNumber": 10
+        },
+        "273": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 204,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW204",
+            "dataBlockNumber": 10
+        },
+        "274": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 190,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW190",
+            "dataBlockNumber": 10
+        },
+        "275": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 176,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW176",
+            "dataBlockNumber": 10
+        },
+        "276": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 268,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW268",
+            "dataBlockNumber": 10
+        },
+        "277": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 252,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW252",
+            "dataBlockNumber": 10
+        },
+        "278": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 238,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW238",
+            "dataBlockNumber": 10
+        },
+        "279": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 224,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW224",
+            "dataBlockNumber": 10
+        },
+        "280": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 360,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "word"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW360",
+            "dataBlockNumber": 10
+        },
+        "281": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 306,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW306",
+            "dataBlockNumber": 10
+        },
+        "282": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 292,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW292",
+            "dataBlockNumber": 10
+        },
+        "283": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 278,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW278",
+            "dataBlockNumber": 10
+        },
+        "284": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 34,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW34",
+            "dataBlockNumber": 9
+        },
+        "285": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 20,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW20",
+            "dataBlockNumber": 9
+        },
+        "286": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 390,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW390",
+            "dataBlockNumber": 10
+        },
+        "287": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 368,
+                "dataBlockNumber": 10
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB10.DBW368",
+            "dataBlockNumber": 10
+        },
+        "288": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 72,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW72",
+            "dataBlockNumber": 9
+        },
+        "289": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 58,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW58",
+            "dataBlockNumber": 9
+        },
+        "290": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 40,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW40",
+            "dataBlockNumber": 9
+        },
+        "291": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 130,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW130",
+            "dataBlockNumber": 9
+        },
+        "292": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 116,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW116",
+            "dataBlockNumber": 9
+        },
+        "293": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 100,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW100",
+            "dataBlockNumber": 9
+        },
+        "294": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 178,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW178",
+            "dataBlockNumber": 9
+        },
+        "295": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 164,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW164",
+            "dataBlockNumber": 9
+        },
+        "296": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 148,
+                "dataBlockNumber": 9
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB9.DBW148",
+            "dataBlockNumber": 9
+        },
+        "297": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 100,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "298": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 44,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "299": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 80,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "300": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 128,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "301": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 156,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "302": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 208,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "303": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 60,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "304": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 96,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "305": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 188,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "306": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 228,
+                "dataBlockNumber": 126
+            },
+            "dataType": {
+                "name": "real"
+            },
+            "dataClass": "analog",
+            "identifier": "DB300.DBD22",
+            "dataBlockNumber": 126
+        },
+        "307": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 4,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW4",
+            "dataBlockNumber": 114
+        },
+        "308": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 12,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW12",
+            "dataBlockNumber": 114
+        },
+        "309": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 248,
+                "dataBlockNumber": 114
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB114.DBW248",
+            "dataBlockNumber": 114
+        },
+        "310": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 108,
+                "dataBlockNumber": 116
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB116.DBW108",
+            "dataBlockNumber": 116
+        },
+        "311": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 12,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW12",
+            "dataBlockNumber": 118
+        },
+        "312": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 112,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW112",
+            "dataBlockNumber": 118
+        },
+        "313": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 248,
+                "dataBlockNumber": 118
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB118.DBW248",
+            "dataBlockNumber": 118
+        },
+        "314": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 108,
+                "dataBlockNumber": 122
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB122.DBW108",
+            "dataBlockNumber": 122
+        },
+        "315": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 66,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW66",
+            "dataBlockNumber": 140
+        },
+        "316": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 80,
+                "dataBlockNumber": 140
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB140.DBW80",
+            "dataBlockNumber": 140
+        },
+        "317": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 22,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW22",
+            "dataBlockNumber": 145
+        },
+        "318": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 74,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW74",
+            "dataBlockNumber": 145
+        },
+        "319": {
+            "rate": "diff",
+            "source": {
+                "name": "datablock",
+                "address": 160,
+                "dataBlockNumber": 145
+            },
+            "dataType": {
+                "name": "int16"
+            },
+            "dataClass": "discrete",
+            "identifier": "DB145.DBW160",
+            "dataBlockNumber": 145
+        }
+    }
+}
